@@ -1,0 +1,4 @@
+[submodule "gcc4ti"]
+	path = gcc4ti
+	url = git@github.com:WSTRN/gcc4ti.git
+	branch = next
